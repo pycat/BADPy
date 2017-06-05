@@ -8,4 +8,5 @@ This program is based on:
 - Campbell Barton's sphinx_doc_gen.py script
 - Witold Jaworski (http://www.airplanes3d.net)
 - mutantbob (https://github.com/mutantbob/pycharm-blender)
+
 Thanks for the inspiration!
