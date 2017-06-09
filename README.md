@@ -10,3 +10,7 @@ This program is based on:
 - mutantbob (https://github.com/mutantbob/pycharm-blender)
 
 Thanks for the inspiration!
+
+## HowTO:
+- Run run_badpy.py, use --help for more information
+- Copy output to your project, or add to pycharm's interpreter
